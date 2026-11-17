@@ -8,3 +8,8 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ a {
+  color: inherit;          /* prend la couleur du texte autour, au lieu du bleu */
+  text-decoration: none;   /* enlève le soulignement */
+}
